@@ -1,0 +1,18 @@
+.hvr-reveal:before {
+  border-color: #0084A3;
+  background: #FFFFFF;
+}
+
+
+.hvr-reveal:hover:before, .hvr-reveal:focus:before, .hvr-reveal:active:before {
+  border-width: 2px;
+}
+
+
+
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+
+.navFont {
+  font-family: "Lato" monospace;
+  font-size: 14px;
+}
